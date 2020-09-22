@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "afif",
+            "alamat": "Medan",
+            "umur": 24,
+            "nohp": "0812771218218"
+        },
+        {
+            "id": 2,
+            "nama": "angga",
+            "alamat": "Bali",
+            "umur": 22,
+            "nohp": "081212177217"
+        },
+        {
+            "id": 3,
+            "nama": "wawan",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 4,
+            "nama": "Erlan",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 5,
+            "nama": "Kurnia",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 6,
+            "nama": "Malik",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 7,
+            "nama": "Syafa",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 8,
+            "nama": "Gaffar",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 9,
+            "nama": "Dimas",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 10,
+            "nama": "Habie",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 11,
+            "nama": "Firzan",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 12,
+            "nama": "Wira",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        },
+        {
+            "id": 13,
+            "nama": "Alan",
+            "alamat": "Bandung",
+            "umur": 20,
+            "nohp": "082272182119"
+        }
+    ]
+}
